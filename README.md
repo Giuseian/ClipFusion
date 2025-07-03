@@ -1,4 +1,4 @@
-# ClipFusions: Cross-Modal Transformers for Video Question Answering
+# ClipFusion: Cross-Modal Transformers for Video Question Answering
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.9+-yellow.svg)
@@ -23,7 +23,7 @@ We adopt and extend techniques from **ClipBERT** and **VIOLET**, incorporating i
 ## Datasets
 Our models are evaluated on two standard benchmarks focusing on **multiple-choice question answering (MCQA)**: 
 
-### [MSRVTT-MC](https://github.com/Yale-LILY/MSRVTT-QA)
+### [MSRVTT-MC](https://www.kaggle.com/datasets/valerytamrazov/msrvttqa)
 - Contains ~2,000 short video clips from the MSR-VTT dataset.
 - Each video is paired with a question and four answer choices.
 - Designed for multi-modal reasoning and multiple-choice evaluation.
